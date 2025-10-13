@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://24ggo.netlify.app/sitemap.xml
+Sitemap: https://24ggo-sec.netlify.app/sitemap.xml
